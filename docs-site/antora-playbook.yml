@@ -4,7 +4,7 @@ site:
 content:
   sources:
     - url: https://github.com/ZluZa/CL_2023_SBER.git
-      branches: main
+      branches: [CL_SBER_2023_CROSS_PROTOTYPE]
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
