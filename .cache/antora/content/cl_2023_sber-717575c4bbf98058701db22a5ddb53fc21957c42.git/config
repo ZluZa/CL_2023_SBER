@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+
+[remote "origin"]
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	url = https://github.com/ZluZa/CL_2023_SBER.git
+[branch "CL_SBER_2023_CROSS_PROTOTYPE"]
+	merge = refs/heads/CL_SBER_2023_CROSS_PROTOTYPE
+	remote = origin
